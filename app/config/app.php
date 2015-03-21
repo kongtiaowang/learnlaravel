@@ -94,7 +94,7 @@ return array(
 	*/
 
 	'providers' => array(
-
+		'Way\Generators\Generators\ServiceProvider',
 		'Illuminate\Foundation\Providers\ArtisanServiceProvider',
 		'Illuminate\Auth\AuthServiceProvider',
 		'Illuminate\Cache\CacheServiceProvider',
